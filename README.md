@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from India<br><br>- 🔭 I’m working as Software Engineer Trainee <br>- 📚 I'm currently learning VueJS<br>- ⚡ In my free time I Code.</p>
+<p align="left">I'm from India<br><br>- 🔭 I’m working as Software Engineer Trainee <br>- 📚 I'm currently learning Inertia.js<br>- ⚡ In my free time I Code.</p>
 
 ###
 
